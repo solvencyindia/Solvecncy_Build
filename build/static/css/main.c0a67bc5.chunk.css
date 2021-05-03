@@ -1,0 +1,2 @@
+.scrollTop{position:fixed;width:100%;bottom:20px;-webkit-align-items:center;align-items:center;height:20px;-webkit-justify-content:center;justify-content:center;z-index:1000;cursor:pointer;-webkit-animation:fadeIn .3s;animation:fadeIn .3s;opacity:.7}.scrollTop:hover{opacity:1}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:.5}}@keyframes fadeIn{0%{opacity:0}to{opacity:.5}}*{box-sizing:border-box;margin:0;padding:0;font-family:"Encode Sans Expanded",sans-serif}
+/*# sourceMappingURL=main.c0a67bc5.chunk.css.map */

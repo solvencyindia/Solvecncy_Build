@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0a67bc5.chunk.css",
+    "main.js": "/static/js/main.24984212.chunk.js",
+    "main.js.map": "/static/js/main.24984212.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6773f49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6773f49.js.map",
+    "static/js/2.f266316d.chunk.js": "/static/js/2.f266316d.chunk.js",
+    "static/js/2.f266316d.chunk.js.map": "/static/js/2.f266316d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c0a67bc5.chunk.css.map": "/static/css/main.c0a67bc5.chunk.css.map",
+    "static/js/2.f266316d.chunk.js.LICENSE.txt": "/static/js/2.f266316d.chunk.js.LICENSE.txt",
+    "static/media/IT-HUB.f116f6f0.jpg": "/static/media/IT-HUB.f116f6f0.jpg",
+    "static/media/app.a9306b7c.svg": "/static/media/app.a9306b7c.svg",
+    "static/media/business.1802afa8.svg": "/static/media/business.1802afa8.svg",
+    "static/media/cloud.73129c36.svg": "/static/media/cloud.73129c36.svg",
+    "static/media/getintouch.e199de65.jpg": "/static/media/getintouch.e199de65.jpg",
+    "static/media/infra_2.8e26870e.svg": "/static/media/infra_2.8e26870e.svg",
+    "static/media/software.efb9b8a0.svg": "/static/media/software.efb9b8a0.svg",
+    "static/media/usa.eeee3ad6.jpg": "/static/media/usa.eeee3ad6.jpg",
+    "static/media/web.f2f53b6c.svg": "/static/media/web.f2f53b6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6773f49.js",
+    "static/js/2.f266316d.chunk.js",
+    "static/css/main.c0a67bc5.chunk.css",
+    "static/js/main.24984212.chunk.js"
+  ]
+}
